@@ -54,3 +54,17 @@ VALUES
 - **Designation** : **Full Stack** **Web Developer**
 - [ Git_Website](https://github.com/Sharuf95)
 - [@Ash Github Profile](https://github.com/Sharuf95)
+
+### Mydata in JSON Formt
+```json
+{
+  "Name"           : "Sharuf",
+  "City"           : "Ongole",
+  "Designation"    : "Fullstack Development",
+  "Github profile" : "(https://github.com/Sharuf95)",
+  "Github website" : "(https://github.com/Sharuf95)",
+  "Married"        : False,
+  "Brothers"       : 2,
+  "Sisters"        : 3
+}
+```
